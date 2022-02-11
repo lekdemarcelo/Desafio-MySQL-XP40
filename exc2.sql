@@ -1,0 +1,1 @@
+ SELECT count(id) AS 'Quantidade de clientes' FROM cliente;
