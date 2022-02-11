@@ -41,13 +41,13 @@ VALUES (
     );
 INSERT INTO departamento (nome, descricao)
 VALUES (
-        'cadeiras',
+        'Cadeiras',
         'Cadeiras de Escritório em até 30x sem juros no Cartão
  Casas Bahia. Cadeiras de Escritório com CashBack BanQi, cupom de desconto e frete grátis.'
     );
 INSERT INTO departamento (nome, descricao)
 VALUES (
-        'games',
+        'Games',
         'Game Games | Compre Video Games, Jogos, Funko Pops, Colecionáveis, Volantes,
  Joysticks e Acessórios Gamers na Melhor Loja do mundo Geek.'
     );
@@ -58,13 +58,13 @@ VALUES (
     );
 INSERT INTO departamento (nome, descricao)
 VALUES (
-        'periféricos',
+        'Periféricos',
         'Periféricos: Mouse Gamer, Headset, Teclado e mais no KaBuM! Encontre as 
 		melhores ofertas com ótimos preços e condições de pagamento. Confira'
     );
 INSERT INTO departamento (nome, descricao)
 VALUES (
-        'computadores',
+        'Computadores',
         'Computadores em promoção. Vem aproveitar milhõooes de 
 		ofertas'
     );
