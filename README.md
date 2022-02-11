@@ -80,9 +80,15 @@ CONSTRAINT item_pedido FOREIGN KEY
     (pedido_numero) REFERENCES pedido(numero)
 ); <br><br> 
 
+# Índice
 
 
-# 💻 Com base nestas informações, realize os seguintes exercícios.
+  - [Ferramentas utilizadas](#ferramentas-utilizadas)
+  - [Acesso ao projeto](#acesso-ao-projeto)
+  - [Objetivo Final](#objetivo-final)
+  - [Desenvolvedores](#desenvolvedores)<br><br> 
+
+#  Com base nestas informações, realize os seguintes exercícios.
 
 - [x] Este exercício é livre para você inserir dados nas tabelas. Adicione vários dados em todas as tabelas. Crie vários clientes, com vários endereços. Insira muitos produtos em vários departamentos. Crie pedidos em várias datas com meses diferentes (serão necessários para os próximos exercícios). <br><br> 
 - [x] Quantos clientes estão cadastrados na sua base?<br><br> 
@@ -96,13 +102,13 @@ CONSTRAINT item_pedido FOREIGN KEY
 - [x] Mostre o valor total do estoque por departamento.<br><br> 
 # Ferramentas utilizadas
 
-<a href="https://dev.mysql.com/downloads/installer/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="visualStudio" width="40" height="40"/> </a> 
+<a href="https://dev.mysql.com/downloads/installer/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="visualStudio" width="40" height="40"/> </a> <br><br> 
 
-# Acesso ao projeto
-Você pode [acessar o código fonte do projeto](https://github.com/lekdemarcelo/Desafio-MySQL-XP40) ou [baixá-lo](https://github.com/lekdemarcelo/Desafio-MySQL-XP40/archive/refs/heads/main.zip).
+#  Acesso ao projeto
+Você pode [acessar o código fonte do projeto](https://github.com/lekdemarcelo/Desafio-MySQL-XP40) ou [baixá-lo](https://github.com/lekdemarcelo/Desafio-MySQL-XP40/archive/refs/heads/main.zip).<br><br> 
 
 # Objetivo Final
-A proposta é trabalhar em equipe e praticar todas as habilidades adquiridas em Banco de dados, em especial MySQL.
+A proposta é trabalhar em equipe e praticar todas as habilidades adquiridas em Banco de dados, em especial MySQL.<br><br> 
 
 # Desenvolvedores
 <table>
